@@ -1,3 +1,2 @@
-# Programming-Project
+# Programming-Project: CashCompass
 
-Welcome to the repository of my Programming Project!
