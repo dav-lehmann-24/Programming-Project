@@ -592,7 +592,7 @@ public class GUI extends JFrame {
 		}
 		
 		JDialog dialog = new JDialog(this, "Add Income", true);
-	    dialog.setSize(300, 200);
+	    dialog.setSize(300, 250);
 	    dialog.getContentPane().setLayout(null);
 	    dialog.setLocationRelativeTo(this);
 
